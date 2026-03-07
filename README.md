@@ -17,6 +17,7 @@ distanceToShotMap.put(Inches.of(150.0), new Shot(5148, 0.46));  // Uzak
 distanceToShotMap.put(Inches.of(165.5), new Shot(5293, 0.48));  // WCP uzak referans
 
 // Uzun menzil
+
 distanceToShotMap.put(Inches.of(182.0), new Shot(5481, 0.51));
 
 distanceToShotMap.put(Inches.of(200.0), new Shot(5670, 0.55));
@@ -48,6 +49,7 @@ distanceToShotMap.put(Inches.of(150.0), new Shot(4260, 0.46)); // Uzak
 distanceToShotMap.put(Inches.of(165.5), new Shot(4380, 0.48)); // WCP uzak referans
 
 // Uzun menzil (tower/human tarafi yakini) - sahada tune edilecek
+
 distanceToShotMap.put(Inches.of(182.0), new Shot(4536, 0.51));
 
 distanceToShotMap.put(Inches.of(200.0), new Shot(4692, 0.55));
